@@ -1,4 +1,4 @@
-#Famous Apps UI Clones Using SwiftUI
+Famous Apps UI Clones Using SwiftUI
 
 This repository showcases UI clones of famous apps such as Spotify, Netflix, and Bumble, all built using SwiftUI. The goal of this project is to replicate the user interfaces of these popular apps, providing an educational resource for developers looking to learn more about SwiftUI and UI design principles.
 
